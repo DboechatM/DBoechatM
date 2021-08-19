@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Olá, me chamo Daniel 🤘🏼
+### Olá, me chamo Daniel  🤘🏼
 ### Seja bem-vinde ao meu GitHub   
 
-Estou utilizando o GitHub com o intuito de mostrar meu desenvolvimento com estudos, salvar os códigos dos meus projetos de maneira segura e também para fomentar uma possível troca de idéias sobre melhorias 😁
+Estou utilizando o GitHub com o intuito de mostrar meu desenvolvimento com estudos, salvar os códigos dos meus projetos de maneira segura e também para fomentar uma possível troca de idéias sobre melhorias  😁
 
 
-#### 🔰 Sempre buscando novas maneiras de me tornar uma pessoa melhor 🔰
+#### 🔰 Sempre buscando novas maneiras de me tornar uma pessoa melhor  🔰
 
 • 🎓 Graduado em Engenharia Quimica | UFF
 
@@ -47,9 +47,10 @@ Estou utilizando o GitHub com o intuito de mostrar meu desenvolvimento com estud
 </details>
 -->
 
-### Tecnologias, linguagens e frameworks que tenho conhecimento👩‍💻
+### Tecnologias, linguagens e frameworks que tenho conhecimento  👩‍💻
 ![Github sql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-<img alt="Python" src="https://img.shields.io/badge/-Python-yellow.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/-Python-blue.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Power BI" src="https://img.shields.io/badge/-Power_BI-yellow.svg?style=for-the-badge&logo=power-bi&logoColor=white"/>
  <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
  <img alt="R" src="https://img.shields.io/badge/-R-blue.svg?style=for-the-badge&logo=r&logoColor=white"/>
  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
@@ -63,7 +64,7 @@ Estou utilizando o GitHub com o intuito de mostrar meu desenvolvimento com estud
 -->
  
 <p align="center">
- Quantidade de visitas no meu perfil desde: 01/09/2021 🕵 <br></p>
+ Quantidade de visitas no meu perfil desde: 01/09/2021   🕵 <br></p>
 <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/DboechatM/count.svg" /></p>
 <p align="center">
