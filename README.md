@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 
 
-<h2> Olá, me chamo Daniel  🤘🏼</h>
+<h2> Fala aí, me chamo Daniel  🤘🏼</h>
 
-### Seja bem-vinde ao meu GitHub   
+### Seja muito bem-vindo ao meu GitHub   
 
-#### 🔰 Sempre buscando novas maneiras de me tornar uma pessoa melhor  🔰
+#### 🔰 Sempre em busca de novas maneiras para me tornar uma pessoa melhor  🔰
 
 • 🎓 Graduado em Engenharia Quimica | UFF
 
@@ -41,7 +41,7 @@ Com absurda vontade de imergir neste mundo Tech, estou utilizando o GitHub com o
 ----
 
 <p align="center"> 
-<h3> Entre em contato comigo através das minhas redes sociais 📲</h> 
+<h3> Se quiser, pode trocar ideias comigo através das minhas redes sociais. Chega mais    📲</h> 
 </p>
 
 <p align="center">
