@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 • 🎓 Graduado em Engenharia Quimica | UFF
 
-• 🎓 Mestrando em Engenharia Mecânica | Petróleo e Energia | PUC 
+• 🎓 Mestrando em Engenharia Mecânica | Petróleo e Energia | PUC - RIO
 
 • 🔭 Atualmente trabalho na Agência Nacional de Petróleo, Gás Natural e Biocombustíveis
 
