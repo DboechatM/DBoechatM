@@ -80,7 +80,7 @@ Com absurda vontade de imergir neste mundo Tech, estou utilizando o GitHub com o
 </p>
 
 <p align="center">
-  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+  !<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" width="80" height="50" />
   
 </p>
 
