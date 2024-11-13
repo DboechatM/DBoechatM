@@ -24,13 +24,11 @@ Here are some ideas to get you started:
 
 • 🎓 Graduado em Engenharia Quimica | UFF
 
-• 🎓 Mestrando em Engenharia Mecânica | Petróleo e Energia | PUC - RIO
+• 🎓 Mestre em Engenharia Mecânica | Petróleo e Energia | PUC - RIO
 
-• 🔭 Atualmente trabalho na Agência Nacional de Petróleo, Gás Natural e Biocombustíveis
+• 🔭 Atualmente trabalho na SLB como Engenheiro de dados e Infraestrutura
 
-• 🌱 Data Scientist em Formação
-
-• 📍 Niterói - RJ
+• 📍 Macaé - RJ
 
 Sou extremamente Curioso, amante da ciência e tecnologia desde pequeno. 
 
